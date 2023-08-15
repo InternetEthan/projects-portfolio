@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    padding: 5px;
+    border: 2px dotted black;
+    width: 100%;
+}
+
+header, ul, footer {
+    display: flex;
+}
+
+ul {
+    display: flex;
+}
+
+section {
+    display: flex;
+}
