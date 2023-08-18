@@ -4,7 +4,8 @@
     margin: 0;
     list-style-type: none;
     font-size: 25px;
-    background-color: #D0D6B3;
+    background-color: #242b35;
+    color: antiquewhite;
 }
 
 header, ul, footer, section, .other-projects{
@@ -12,7 +13,7 @@ header, ul, footer, section, .other-projects{
 }
 
 header, footer {
-    border: 2px solid #143109;
+    border: 2px solid #413f49;
 }
 
 #name, #contact-me {
@@ -35,16 +36,24 @@ li {
 }
 
 .projects-image {
-    border: 5px solid #143109;
+    border: 5px solid #413f49;
+    -webkit-filter: grayscale(40%);
+    -moz-filter:    grayscale(40%);
+    -ms-filter:     grayscale(40%);
+    -o-filter:      grayscale(40%);
 }
 
 .projects-image:hover {
-    border: 5px solid #AAAE7F;
+    border: 5px solid #da7c59;
+    -webkit-filter: grayscale(0%);
+    -moz-filter:    grayscale(0%);
+    -ms-filter:     grayscale(0%);
+    -o-filter:      grayscale(0%);
 }
 
 .projects-image:hover + .caption{
-    background-color: #AAAE7F;
-    border: 5px solid #AAAE7F;
+    background-color: #da7c59;
+    border: 5px solid #da7c59;
 }
 
 .header-image {
@@ -54,7 +63,7 @@ li {
 
 .section-title {
     width: 30%;
-    border-right: 2px solid #143109;
+    border-right: 2px solid #413f49;
 }
 
 .other-projects {
@@ -79,15 +88,15 @@ li {
 }
 
 .caption {
- position: absolute;
- background-color: #143109;
- border: 5px solid #143109;
- color: white;
- bottom: 16px;
- right: 10px;
- width: auto;
- height: auto;
- font-size: 85%;
+    position: absolute;
+    background-color: #413f49;
+    border: 5px solid #413f49;
+    color: white;
+    bottom: 16px;
+    right: 10px;
+    width: auto;
+    height: auto;
+    font-size: 85%;
 }
 
 @media screen and (max-width: 480px) {
