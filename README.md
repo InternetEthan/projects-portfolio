@@ -10,14 +10,21 @@ N/A
 
 ## Usage
 
-Navigate the site using the links at the top of the page. Additional information is present in the aside section on the right side of the page.
+Navigate the site using the links at the top of the page (currently the only page is the index page; navigation will be added with additional pages).
 
-<!-- ![webpage screenshot](/assets/images/screenshot.png) -->
-<!-- UPDATE ^^^^^ -->
+![webpage screenshot](/assets/images/projects-portfolioScreenshotFull.png)
+![webpage screenshot](/assets/images/projects-portfolioScreenshotMobile.png)
 
 ## Credits
+Photo by Abet Llacer from Pexels: https://www.pexels.com/photo/black-laptop-beside-audio-mixer-set-919734/
 
-N/A
+Photo by Marko Blazevic from Pexels: https://www.pexels.com/photo/person-playing-with-handheld-game-console-2708981/
+
+Photo by Pixabay from Pexels: https://www.pexels.com/photo/gray-and-red-quadcopter-drone-257699/
+
+Photo by Johannes Plenio from Pexels: https://www.pexels.com/photo/photo-of-green-circuit-board-1105379/
+
+Photo by Wendy Wei from Pexels: https://www.pexels.com/photo/round-metal-frame-with-disco-light-1555900/
 
 ## License
 
