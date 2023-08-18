@@ -9,6 +9,10 @@ header, ul, footer, section, .other-projects{
     display: flex;
 }
 
+img {
+    border: 5px solid black;;
+}
+
 .header-image {
     width: 100%;
     padding: 0;
@@ -25,10 +29,30 @@ header, ul, footer, section, .other-projects{
 
 .major-project {
     width: 100%;
+    padding: 5px;
+    position: relative;
+}
+
+.other-projects {
+    align-items: center;
+    justify-content: center;
 }
 
 .minor-projects {
     width: 50%;
+    padding: 5px;
+    position: relative;
+}
+
+.caption {
+ position: absolute;
+ background-color: black;
+ color: white;
+ bottom: 10PX;
+ right: 10px;
+ width: auto;
+ height: auto;
+ font-size: 85%;
 }
 
 @media screen and (max-width: 480px) {
