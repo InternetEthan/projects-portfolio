@@ -47,6 +47,11 @@ li {
     font-size: 70%;
 }
 
+a {
+    font-size: 90%;
+    text-decoration: none;
+}
+
 .projects-image {
     border: 5px solid #413f49;
     filter: none;
