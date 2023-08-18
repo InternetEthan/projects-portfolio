@@ -12,8 +12,8 @@ N/A
 
 Navigate the site using the links at the top of the page (currently the only page is the index page; navigation will be added with additional pages).
 
-![webpage screenshot](/assets/images/projects-portfolioScreenshotFull.png)
-![webpage screenshot](/assets/images/projects-portfolioScreenshotMobile.png)
+![webpage screenshot](/images/projects-portfolioScreenshotFull.png)
+![webpage screenshot](/images/projects-portfolioScreenshotMobile.png)
 
 ## Credits
 Photo by Abet Llacer from Pexels: https://www.pexels.com/photo/black-laptop-beside-audio-mixer-set-919734/
