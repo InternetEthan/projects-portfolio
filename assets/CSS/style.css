@@ -1,18 +1,38 @@
 * {
     box-sizing: border-box;
-    padding: 5px;
-    border: 2px dotted black;
+    width: 100%;
+    margin: 0;
+    list-style-type: none;
+}
+
+header, ul, footer, section, .other-projects{
+    display: flex;
+}
+
+.header-image {
+    width: 100%;
+    padding: 0;
+}
+
+.section-title {
+    width: 30%;
+    border-right: 2px solid black;
+}
+
+.other-projects {
+    flex-wrap: wrap;
+}
+
+.major-project {
     width: 100%;
 }
 
-header, ul, footer {
-    display: flex;
+.minor-projects {
+    width: 50%;
 }
 
-ul {
-    display: flex;
-}
-
-section {
-    display: flex;
+@media screen and (max-width: 480px) {
+    .minor-projects {
+        width: 100%;
+    }
 }
