@@ -38,6 +38,7 @@ li {
 
 .projects-image {
     border: 5px solid #413f49;
+    filter: none;
     -webkit-filter: grayscale(40%);
     -moz-filter:    grayscale(40%);
     -ms-filter:     grayscale(40%);
@@ -46,6 +47,7 @@ li {
 
 .projects-image:hover {
     border: 5px solid #da7c59;
+    filter: none;
     -webkit-filter: grayscale(0%);
     -moz-filter:    grayscale(0%);
     -ms-filter:     grayscale(0%);
