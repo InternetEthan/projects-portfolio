@@ -3,14 +3,48 @@
     width: 100%;
     margin: 0;
     list-style-type: none;
+    font-size: 25px;
+    background-color: #D0D6B3;
 }
 
 header, ul, footer, section, .other-projects{
     display: flex;
 }
 
-img {
-    border: 5px solid black;;
+header, footer {
+    border: 2px solid #143109;
+}
+
+#name, #contact-me {
+    font-size: 125%;
+    width: 30%;
+}
+
+p {
+    padding: 5px;
+    font-size: 65%;
+}
+
+ul {
+    padding: 5px;
+    text-align: center;
+}
+
+li {
+    font-size: 80%;
+}
+
+.projects-image {
+    border: 5px solid #143109;
+}
+
+.projects-image:hover {
+    border: 5px solid #AAAE7F;
+}
+
+.projects-image:hover + .caption{
+    background-color: #AAAE7F;
+    border: 5px solid #AAAE7F;
 }
 
 .header-image {
@@ -20,7 +54,7 @@ img {
 
 .section-title {
     width: 30%;
-    border-right: 2px solid black;
+    border-right: 2px solid #143109;
 }
 
 .other-projects {
@@ -46,9 +80,10 @@ img {
 
 .caption {
  position: absolute;
- background-color: black;
+ background-color: #143109;
+ border: 5px solid #143109;
  color: white;
- bottom: 10PX;
+ bottom: 16px;
  right: 10px;
  width: auto;
  height: auto;
