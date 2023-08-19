@@ -12,10 +12,12 @@ N/A
 
 Navigate the site using the links at the top of the page (currently the only page is the index page; navigation will be added with additional pages).
 
-![webpage screenshot](/images/full-page.png.png)
+![webpage screenshot](/images/full-page.png)
 ![webpage screenshot](/images/mobile-page.png)
 
 ## Credits
+Photo by Felix Mittermeier: https://www.pexels.com/photo/blue-universe-956981/
+
 Photo by Abet Llacer from Pexels: https://www.pexels.com/photo/black-laptop-beside-audio-mixer-set-919734/
 
 Photo by Marko Blazevic from Pexels: https://www.pexels.com/photo/person-playing-with-handheld-game-console-2708981/
