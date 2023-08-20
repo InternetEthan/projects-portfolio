@@ -12,8 +12,8 @@ N/A
 
 Navigate the site using the links at the top of the page (currently the only page is the index page; navigation will be added with additional pages).
 
-![webpage screenshot](/images/full-page.png)
-![webpage screenshot](/images/mobile-page.png)
+![webpage screenshot](./assets//images/full-page.png)
+![webpage screenshot](./assets//images/mobile-page.png)
 
 ## Credits
 Photo by Felix Mittermeier: https://www.pexels.com/photo/blue-universe-956981/
